@@ -732,6 +732,9 @@ section {
   header {
     padding: 0 !important;
   }
+  .space1,.space2,.space3,.space4,.space5 {
+    padding: 0 !important;
+  }
   .theme-btn {
     width: 50px;
     height: 50px;
