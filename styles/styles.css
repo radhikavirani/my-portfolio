@@ -563,7 +563,7 @@ section {
 .contact-content-con .left-contact .contact-info .contact-item {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+/*   justify-content: space-between; */
 }
 .contact-content-con .left-contact .contact-info .contact-item p {
   margin: 0.3rem 0 !important;
@@ -577,6 +577,21 @@ section {
   display: flex;
   align-items: center;
   font-size: 1.3rem;
+}
+.space1{
+  padding: 0 0 0 137px !important;
+}
+.space2{
+  padding: 0 0 0 164px !important;
+}
+.space3{
+  padding: 0 0 0 124px !important;
+}
+.space4{
+  padding: 0 0 0 80px !important;
+}
+.space5{
+  padding: 0 0 0 116px !important;
 }
 .contact-content-con .left-contact .contact-icon {
   display: flex;
