@@ -314,6 +314,9 @@ section {
 .about-stats .progress-bars .progress-bar .progress-con .progress .figma {
   width: 85% !important;
 }
+.about-stats .progress-bars .progress-bar .progress-con .progress .canva {
+  width: 80% !important;
+}
 .about-stats .progress-bars .progress-bar .progress-con .progress .html {
   width: 90% !important;
 }
@@ -321,10 +324,10 @@ section {
   width: 90% !important;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .java Script {
-  width: 75% !important;
+  width: 50% !important;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .jQuery {
-  width: 70% !important;
+.about-stats .progress-bars .progress-bar .progress-con .progress .react {
+  width: 80% !important;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .bootstrap {
   width: 80% !important;
